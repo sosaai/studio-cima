@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "studio-cima",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "4555"],
+      "port": 4555
+    }
+  ]
+}
